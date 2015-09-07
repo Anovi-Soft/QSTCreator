@@ -1,0 +1,8 @@
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\bin\Debug\ConsoleDataTest.exe.config
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\bin\Debug\ConsoleDataTest.exe
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\bin\Debug\ConsoleDataTest.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\obj\Debug\ConsoleDataTest.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\obj\Debug\ConsoleDataTest.exe
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\obj\Debug\ConsoleDataTest.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\bin\Debug\DataQuest.dll
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\ConsoleDataTest\bin\Debug\DataQuest.pdb

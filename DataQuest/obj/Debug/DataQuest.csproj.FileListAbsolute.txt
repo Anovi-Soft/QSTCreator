@@ -1,0 +1,5 @@
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\obj\Debug\DataQuest.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\bin\Debug\DataQuest.dll
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\bin\Debug\DataQuest.pdb
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\obj\Debug\DataQuest.dll
+c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\obj\Debug\DataQuest.pdb
