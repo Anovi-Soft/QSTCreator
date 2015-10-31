@@ -5,8 +5,44 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QSTCreator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
         
+        Title="QuestCreater"
+        Activated="Window_Activated"
+        Height="600" 
+        MinWidth="700"
+        MinHeight="600" 
+        Width="900">
+    <Grid x:Name="grid">
+        <!-- Menu-->
+        <Menu>
+            <MenuItem Header="File">
+                <MenuItem Header="New"></MenuItem>
+                <MenuItem Header="Open"></MenuItem>
+                <MenuItem Header="Save"></MenuItem>
+                <MenuItem Header="SaveAs..."></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Exit"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Undo"></MenuItem>
+                <MenuItem Header="Redo"></MenuItem>
+                <Separator></Separator>
+                <MenuItem Header="Cut"></MenuItem>
+                <MenuItem Header="Copy"></MenuItem>
+                <MenuItem Header="Paste"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <!-- Properties-->
+        <!-- TabControl -->
+        <TabControl x:Name="tabControl" Margin="10,25,10,30" >
+        </TabControl>
+        <!-- Top bar-->
+        <!-- Left bar-->
+        <!-- Down bar -->
+        <StatusBar Height="30" VerticalAlignment="Bottom" d:LayoutOverrides="LeftMargin, RightMargin" Width="{Binding Width, ElementName=grid}">
+            <Slider x:Name="sliderZoom" Height="20" Width="200" Minimum="25" Maximum="200" SmallChange="5" Value="100" TickFrequency="25" LargeChange="25" ValueChanged="sliderZoom_ValueChanged"/>
+            <Label x:Name="label" Content="{Binding Value, ElementName=sliderZoom}" Height="30" Width="38"/>
+            <Label x:Name="labelStatus" Height="30" Width="250"/>
+        </StatusBar>
     </Grid>
 </Window>

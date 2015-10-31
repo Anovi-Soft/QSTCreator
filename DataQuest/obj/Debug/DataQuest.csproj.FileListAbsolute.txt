@@ -3,3 +3,8 @@ c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\bin\D
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\bin\Debug\DataQuest.pdb
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\obj\Debug\DataQuest.dll
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\DataQuest\obj\Debug\DataQuest.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\DataQuest\bin\Debug\DataQuest.dll
+C:\Users\Andrew\Documents\GitHub\QSTCreator\DataQuest\bin\Debug\DataQuest.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\DataQuest\obj\Debug\DataQuest.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\QSTCreator\DataQuest\obj\Debug\DataQuest.dll
+C:\Users\Andrew\Documents\GitHub\QSTCreator\DataQuest\obj\Debug\DataQuest.pdb

@@ -12,3 +12,24 @@ c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\QSTCreator\obj\
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\QSTCreator\obj\Debug\QSTCreator.csproj.GenerateResource.Cache
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\QSTCreator\obj\Debug\QSTCreator.exe
 c:\users\andrew\documents\visual studio 2015\Projects\QSTCreator\QSTCreator\obj\Debug\QSTCreator.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\bin\Debug\QSTCreator.exe.config
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.exe
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\bin\Debug\QSTCreator.exe
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\bin\Debug\QSTCreator.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\bin\Debug\DataQuest.dll
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\bin\Debug\DataQuest.pdb
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\App.g.cs
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator_MarkupCompile.cache
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator_MarkupCompile.lref
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\MainWindow.baml
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.g.resources
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.Properties.Resources.resources
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\QSTCreator.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\TabEditor.g.cs
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\TabEditor.baml
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\CloseableHeader.g.cs
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\CloseableHeader.baml
+C:\Users\Andrew\Documents\GitHub\QSTCreator\QSTCreator\obj\Debug\GeneratedInternalTypeHelper.g.cs

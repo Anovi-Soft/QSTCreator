@@ -23,6 +23,8 @@ namespace DataQuest
             return choise != null ? Branch[choise] : Branch.Last().Value;
         }
 
+        public IRoad DefaultBranch { get; set; }
+
         public GameEvent Events { get; set; }
         public List<string> Messages { get; set; }
         public List<string> Answers { get; set; }

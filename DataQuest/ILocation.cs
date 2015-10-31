@@ -36,6 +36,11 @@ namespace DataQuest
         IRoad NextBranch(GameFlags flags);
 
         /// <summary>
+        /// This value return from <see cref="NextBranch"/> when this can`t find next branch
+        /// </summary>
+        IRoad DefaultBranch { get; set; }
+
+        /// <summary>
         /// Location events
         /// </summary>
         GameEvent Events { get; set; }

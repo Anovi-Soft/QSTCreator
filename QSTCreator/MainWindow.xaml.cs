@@ -23,6 +23,26 @@ namespace QSTCreator
         public MainWindow()
         {
             InitializeComponent();
+            ClosableTab theTabItem = new ClosableTab { Label = "asd" };
+            tabControl.Items.Add(theTabItem);
+            ClosableTab theTabItem1 = new ClosableTab { Label = "asd1" };
+            tabControl.Items.Add(theTabItem1);
+            theTabItem.Focus();
+            ClosableTab theTabItem2 = new ClosableTab { Label = "asd2" };
+            tabControl.Items.Add(theTabItem2);
+        }
+
+        private void Window_Activated(object sender, EventArgs e)
+        {
+        }
+
+        private void sliderZoom_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            var shift = e.NewValue % 25;
+            if (shift == 0) return;
+            if (shift > 12.5)
+                shift -= 25;
+            (sender as Slider).Value = e.NewValue - shift;
         }
     }
 }
